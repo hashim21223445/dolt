@@ -10,7 +10,7 @@
    },
    "dependencies": {
       "typeorm": "^0.3.10",
-      "reflect-metadata": "^0.1.13",
+      "reflect-metadata": "^0.2.2",
       "mysql": "^2.14.1"
    },
    "scripts": {
